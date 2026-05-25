@@ -69,7 +69,7 @@ export default function Home() {
             </h1>
             <p className="mt-5 max-w-2xl text-lg leading-8 text-white/65">
               Pick a mood and get a curated set of films that match your current energy.
-              This is the first MVP version: simple, fast, and shippable.
+              
             </p>
           </div>
 
