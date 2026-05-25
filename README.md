@@ -1,4 +1,4 @@
-# Mood2Movie MVP
+# Mood4Flick MVP
 
 A beginner-friendly mood-based movie recommendation web app built with Next.js, Tailwind CSS and TMDB.
 
