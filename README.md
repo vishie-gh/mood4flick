@@ -1,3 +1,9 @@
+## Learning MVP Note
+
+This project was built as a learning MVP to understand the process of taking a simple web app idea from local development to GitHub and deployment on Vercel.
+
+The goal was not to create an original commercial product, but to practise the full beginner workflow: setting up a Next.js project, connecting an external movie API, handling environment variables, using Git/GitHub and deploying a working app online.
+
 # Mood4Flick MVP
 
 A beginner-friendly mood-based movie recommendation web app built with Next.js, Tailwind CSS and TMDB.

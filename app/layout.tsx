@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Mood2Movie MVP',
+  title: 'Mood4Flix',
   description: 'Find a movie based on your mood.',
 };
 

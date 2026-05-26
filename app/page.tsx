@@ -62,7 +62,7 @@ export default function Home() {
         <div className="mb-10 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
           <div className="max-w-3xl">
             <p className="mb-4 inline-flex rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm text-white/70">
-              Movie finder
+              Mood4Flix
             </p>
             <h1 className="text-5xl font-black tracking-tight text-white sm:text-7xl">
               What are you in the mood to watch?
